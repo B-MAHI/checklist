@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/B-MAHI/checklist.git/static/css/main.204fee52.css",
+    "main.js": "/B-MAHI/checklist.git/static/js/main.69527b32.js",
+    "static/js/453.53989f10.chunk.js": "/B-MAHI/checklist.git/static/js/453.53989f10.chunk.js",
+    "index.html": "/B-MAHI/checklist.git/index.html",
+    "main.204fee52.css.map": "/B-MAHI/checklist.git/static/css/main.204fee52.css.map",
+    "main.69527b32.js.map": "/B-MAHI/checklist.git/static/js/main.69527b32.js.map",
+    "453.53989f10.chunk.js.map": "/B-MAHI/checklist.git/static/js/453.53989f10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.204fee52.css",
+    "static/js/main.69527b32.js"
+  ]
+}
