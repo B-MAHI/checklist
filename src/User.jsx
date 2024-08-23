@@ -1,8 +1,6 @@
 
 import { useState } from "react";
 import Modal from 'react-modal';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faSearch } from '@fortawesome/free-solid-svg-icons';
 
 function User() {
     const [ver, setVer] = useState(false);
